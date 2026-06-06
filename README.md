@@ -61,3 +61,14 @@ Generative AI · Agentic Systems · RAG · NLP · LLM Engineering <br> 21 Projec
 ![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 </div>
+
+## 📚 Resources
+
+<div align="center">
+<br/>
+
+| # | Resource | Type | Link |
+| :-: | :------- | :--- | :--: |
+| 1 | GenAI Course Playlist | YouTube Series | [▶️](https://www.youtube.com/playlist?list=PLJq-63ZRPdBu38EjXRXzyPat3sYMHbIWU) |
+
+</div>
